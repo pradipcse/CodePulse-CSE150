@@ -1,4 +1,5 @@
 # CodePulse-CSE150
+<h1>Blast The Green Game</h1>
 <br/><h1>Project overview</h1>
 
 This repository contains the source code and documentation for the "Blast The Green Game" project developed as part of the Project Work 1 course (CSE 150). The game is implemented in C++ and designed to run as a console application on a computer.
